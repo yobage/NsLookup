@@ -1,2 +1,2 @@
 # NsLookup
-a python program which imitate the windows nslookup app using scapy to build custom dns package.  
+a python program that imitates the windows lookup app using scapy to build a custom DNS package.
